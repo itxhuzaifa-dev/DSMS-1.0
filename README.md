@@ -99,4 +99,4 @@ CampusX_DSMP_1.0/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DSMS-1.0.git
+   git clone https://github.com/itxhuzaifa-dev/DSMS-1.0.git
